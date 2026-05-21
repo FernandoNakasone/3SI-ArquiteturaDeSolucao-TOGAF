@@ -710,12 +710,6 @@
           <bounds x="36" y="36" width="120" height="55"/>
         </child>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-fda009de7a704467ae47570f0e8d073f" archimateElement="id-69610dcc70574168ac63163875564293">
-        <bounds x="65" y="2379" width="120" height="55"/>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="id-2cdf0cb8596f40ffbe502f86f4568b16" archimateElement="id-f7ad7bedf3624090b30d46d3286d383f">
-        <bounds x="-345" y="2398" width="120" height="55"/>
-      </child>
       <child xsi:type="archimate:DiagramObject" id="id-1962f5638acb4a57bbcd107528da80f4" archimateElement="id-f039ee7c0fe742e38cc773855d9dbf5b">
         <bounds x="365" y="3108" width="169" height="120"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-09dbe6facaa547899bc08542b15de033" source="id-1962f5638acb4a57bbcd107528da80f4" target="id-345fc7c35bf440ceb2d9e2efb3ef4e81" archimateRelationship="id-676582656b63469390265b4a9fd4e35a"/>
@@ -723,9 +717,6 @@
         <child xsi:type="archimate:DiagramObject" id="id-6925e83c83664eba8c4d40148ab4fe38" targetConnections="id-72515338585649359f7c1465793116ed" archimateElement="id-1207677a534246db9d2dab6445b2b923">
           <bounds x="24" y="36" width="120" height="55"/>
         </child>
-      </child>
-      <child xsi:type="archimate:DiagramObject" id="id-e1a8882acd074927ab69393247e735b7" archimateElement="id-54972820423945bf9bdc9f33c921d339">
-        <bounds x="116" y="2372" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-2d3d4a49089a4fdd9a10e0fae97c9adb" archimateElement="id-70cd82c62d8d438cbb71c20d28409762">
         <bounds x="1248" y="3120" width="176" height="124"/>
